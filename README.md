@@ -48,7 +48,7 @@ The API follows a RESTful architecture with all endpoints prefixed with `/api/v1
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/secure-note-api.git
+   https://github.com/guls4h/secure-note-api-ai-supported.git
    cd secure-note-api
    ```
 
